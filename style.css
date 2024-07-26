@@ -1,0 +1,74 @@
+
+header{
+
+    background-color: rgb(70, 70, 70);
+    padding: 30px;
+}
+
+h1{
+    padding-left: 800px;
+}
+
+main {
+    display: flex;
+    min-width: 200px;
+    padding: 10px 20px;
+}
+
+
+h2{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    padding-top: px;
+    padding-left: 280px;
+    font-size: 30px;
+}
+
+.card{
+    flex: 2;
+    margin: 10px 10px;
+    border: solid black 3px;
+    height: 200px;
+    padding: 20px 40px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+}
+
+.card>img{
+    width: 120px;
+    padding-top: 20px;
+}
+
+.card>h3{
+    padding-top: 30px;
+    
+}
+
+
+section{
+    margin: 10px 10px;
+    border: solid black 3px;
+    padding: 10px 10px;
+    border-radius: 5px;
+    width: 1500px;
+    height: 70px;
+    padding-bottom: 40px;
+}
+
+button {
+    display: flex;
+    width: 90px;
+    height: 40px;
+    background-color: rgb(255, 242, 0);
+    margin-left: 1400px;
+    
+}
+
+
+
+
+    
+
+
+    
+
